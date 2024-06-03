@@ -1,7 +1,7 @@
 # Elevator system
 ## Introduction
 This project represents elevator system, able to parse user's requests and manipulate multiple elevators at once.
-## Structure
+## Structure and compiling
 Project is written in Java, using Intellij IDEA and it is recommended to use it as well to view and run project. However, it is also possible to run the project from the command line - to compile, one needs to execute command
 ```
 javac -d <target_directory> src/main/java/com/example/elevators/*.java
